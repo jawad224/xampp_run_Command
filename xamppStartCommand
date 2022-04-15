@@ -1,0 +1,5 @@
+sudo /etc/init.d/apache2 stop
+
+sudo systemctl stop nginx (if error server alredy run)
+
+sudo /opt/lampp/lampp start
